@@ -1,11 +1,12 @@
 // ==UserScript==
 // @name         Oh-my-blackboard Argon Theme
 // @namespace    bb.cuhk.edu.cn
-// @version      1.0
+// @version      1.01
 // @description  Argon Theme for Blackboard
 // @author       enderturtleorz@gmail.com
 // @grant        GM_addStyle
 // @match        *://bb.cuhk.edu.cn/webapps/*
+// @run-at       document-start
 // ==/UserScript==
 
 GM_addStyle(`

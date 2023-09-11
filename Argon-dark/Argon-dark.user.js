@@ -6,6 +6,7 @@
 // @author       enderturtleorz@gmail.com
 // @grant        GM_addStyle
 // @match        *://bb.cuhk.edu.cn/webapps/*
+// @run-at       document-start
 // ==/UserScript==
 
 GM_addStyle(`
