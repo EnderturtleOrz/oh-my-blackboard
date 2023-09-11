@@ -1,10 +1,4 @@
 # oh-my-blackboard
-
-
-[![License][license]](COPYING)
-
-[![Release][release-badge]][release]
-
 ## Introduction
 
 Blackboard custom themes mainly for The Chinese University of Hong Kong, Shenzhen
